@@ -1,0 +1,22 @@
+body, html {
+  font-family: sans-serif;
+  line-height: 1.6;
+}
+
+
+ul li {
+  margin-bottom: 0.4rem;
+}
+
+
+.button {
+  display: inline-block;
+  border: 1px solid black;
+  border-radius: 3px;
+  padding: .5rem 1rem;
+  color: black;
+}
+
+h1,h2 {
+  color: #be5934;
+}
